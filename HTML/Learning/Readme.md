@@ -8,11 +8,11 @@ Welcome to the HTML section of my frontend journey! This directory serves as the
 
 This section is organized to track my learning progress systematically.
 
-### ➡️ [Learning]
+### ➡️ Learning
 
 This sub-directory contains all my practice files, where each file corresponds to a specific topic in HTML. The code is well-commented and structured for easy understanding.
 
-### 📚 Topics Covered in the [Learning] Folder:
+### 📚 Topics Covered in the Learning Folder:
 
 My learning is structured topic-by-topic, as seen in the files:
 
